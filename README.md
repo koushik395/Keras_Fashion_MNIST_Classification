@@ -103,7 +103,7 @@ And now, voila! Our model is undergoing training! <br>
 
 As you can see, the loss and accuracy metrics are clearly displayed. After running the 10th epoch, we can see that we have a loss of ~24% with our model being 90% accurate.
 
-*---------------------EPOCHS-----------*
+![Epochs](https://github.com/koushik395/Keras_Fashion_MNIST_Classification/blob/main/Epochs.png?raw=true)
 
 ### *Model Visualization*
 Keras plot model is defined in tensorflow, a machine learning framework provided by Google. Basically, it is an open source that was used in the Tensorflow framework in conjunction with Python to implement the deep learning algorithm. It contains the optimization technique that was used to perform the complicated and mathematical operations. It is more scalable and will support multiple platforms.<br>
